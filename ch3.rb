@@ -1,0 +1,6 @@
+'Hello'
+'Ruby rocks.'
+'Nobody deserves a mime, Buffy.'
+'Snoopy says #%^?*@! when he stubs his toe'
+'      '
+''
