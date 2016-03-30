@@ -21,3 +21,7 @@ puts (str.center(line_width))
 puts (str.rjust(line_width))
 puts (str.ljust(line_width/2) + str.rjust(line_width))
 
+puts "WHADDYA WANT?"
+answer = gets.chomp.to_s
+puts "WHADDYA MEAN, " + '"' + answer + '"?!?  YOU\'RE FIRED!'
+
